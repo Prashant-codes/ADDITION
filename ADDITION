@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main ()
+{
+ int a,b,s;
+ a=25;
+ b=20;
+ s=a+b;
+ printf("YOUR ANSWER IS = %d",s);
+ return 0;
+}
